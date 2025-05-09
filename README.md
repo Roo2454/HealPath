@@ -1,16 +1,21 @@
 # HealPath: Therapeutic Travel Journey
 
-<div align="center">
-  <img src="cover.jpg" alt="Therapeutic Travel Cover" width="85%" style="border: 1px solid #eee; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-</div>
+<img src="cover.jpg" alt="Cover" width="600">
 
-## 🧑‍🤝‍🧑 Team Members  
-| Member          | Role                          |
-|-----------------|-------------------------------|
-| Heba Tarek      | Project Coordinator           |
-| Hafsa Tarek     | Wellness Specialist           | 
-| Joy Hosny       | Experience Designer           |
-| Dana Essam      | Research Lead                 |
+## Team Members  
+- Heba Tarek  
+- Hafsa Tarek  
+- Joy Hosny  
+- Dana Essam  
 
-## ✨ Project Overview  
-**Therapeutic Travel offers personalized, affordable trips with mental health support. Users access expert therapy and wellness activities. The goal is stress relief, healing, and self-discovery through travel.**
+## Project Overview  
+A platform combining travel with mental health therapy, allowing users to:
+- Plan personalized therapeutic trips  
+- Book individual/group sessions (text/audio/video)  
+- Access emergency support  
+- Choose multiple payment options  
+- Experience seamless recovery journeys  
+
+## Resources  
+**Design Prototype**: [Figma Link](https://www.figma.com/design/YUg1cbPdRl8MmuaiDW8nK1/Medical-Travel-web?node-id=1164-13590&t=YnFK7ZSKMmQeLgj3-1)  
+**Project Drive**: [Google Drive](https://drive.google.com/drive/folders/1Gex7IGjkF2aOtqb0NWhVhIuY2k8T8l1j)
